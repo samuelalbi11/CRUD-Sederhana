@@ -1,0 +1,8 @@
+Cookie sama dengan session hanya saja cookie disimpan ke dalam browser atau di client.
+cookie
+	
+mengenali user
+shopping cart
+personalisasi
+
+karena disimpan di browser ini bisa menjadi celah keamanan.
